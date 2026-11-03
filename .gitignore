@@ -1,0 +1,27 @@
+# 配布するファイルだけを追跡し、調査資料・検証ログ・作業履歴を含めない。
+/*
+!/.gitignore
+!/README.md
+!/index.html
+!/skills/
+/skills/*
+!/skills/sankai/
+/skills/sankai/*
+!/skills/sankai/SKILL.md
+!/skills/sankai/agents/
+/skills/sankai/agents/*
+!/skills/sankai/agents/openai.yaml
+!/skills/sankai/references/
+/skills/sankai/references/*
+!/skills/sankai/references/decompose.md
+!/skills/sankai/references/understand.md
+!/skills/sankai/references/dissolve.md
+!/skills/sankai/references/html-explanation.md
+!/explanation/
+/explanation/*
+!/explanation/source.html
+!/examples/
+/examples/*
+!/examples/rustxng-source.md
+!/examples/rustxng-search.md
+!/examples/verification.md

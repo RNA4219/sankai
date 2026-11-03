@@ -1,0 +1,4 @@
+interface:
+  display_name: "sankai"
+  short_description: "既存スキルを分解・理解・溶解し、使う条件と依存先ごと指示本文を取り出す"
+  default_prompt: "$sankai を使い、このスキルから必要な仕事の指示を、条件・依存先・出典とともに取り出してください。"
