@@ -1,6 +1,7 @@
 # 配布するファイルだけを追跡し、調査資料・検証ログ・作業履歴を含めない。
 /*
 !/.gitignore
+!/LICENSE
 !/README.md
 !/index.html
 !/skills/
